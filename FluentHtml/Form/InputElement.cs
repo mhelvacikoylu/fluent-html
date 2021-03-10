@@ -20,7 +20,7 @@ namespace FluentHtml.Form
         Rane,
         Reset,
         Search,
-        Submti,
+        Submit,
         Tel,
         Text,
         Time,
