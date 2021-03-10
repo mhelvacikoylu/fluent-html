@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentHtml", "FluentHtml\FluentHtml.csproj", "{B041AEE7-4B4D-4AFB-9B1A-5CD79B90202C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples", "Samples\Samples.csproj", "{DBF6FB64-F97A-4EAB-89EF-BAE40AC459FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B041AEE7-4B4D-4AFB-9B1A-5CD79B90202C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B041AEE7-4B4D-4AFB-9B1A-5CD79B90202C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B041AEE7-4B4D-4AFB-9B1A-5CD79B90202C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B041AEE7-4B4D-4AFB-9B1A-5CD79B90202C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF6FB64-F97A-4EAB-89EF-BAE40AC459FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF6FB64-F97A-4EAB-89EF-BAE40AC459FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF6FB64-F97A-4EAB-89EF-BAE40AC459FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF6FB64-F97A-4EAB-89EF-BAE40AC459FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
